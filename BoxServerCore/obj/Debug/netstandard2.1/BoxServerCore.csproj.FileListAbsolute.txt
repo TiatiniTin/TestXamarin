@@ -1,0 +1,8 @@
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\bin\Debug\netstandard2.1\BoxServerCore.deps.json
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\bin\Debug\netstandard2.1\BoxServerCore.dll
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\bin\Debug\netstandard2.1\BoxProtocol.dll
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\bin\Debug\netstandard2.1\BoxProtocol.pdb
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.1\BoxServerCore.csprojAssemblyReference.cache
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.1\BoxServerCore.AssemblyInfoInputs.cache
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.1\BoxServerCore.AssemblyInfo.cs
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.1\BoxServerCore.csproj.CopyComplete

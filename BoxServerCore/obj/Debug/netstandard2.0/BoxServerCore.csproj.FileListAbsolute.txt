@@ -1,0 +1,4 @@
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.0\BoxServerCore.csprojAssemblyReference.cache
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.0\BoxServerCore.AssemblyInfoInputs.cache
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.0\BoxServerCore.AssemblyInfo.cs
+C:\Users\Vitya\Desktop\FirstMobileApp-master\BoxServerCore\obj\Debug\netstandard2.0\BoxServerCore.csproj.CoreCompileInputs.cache
