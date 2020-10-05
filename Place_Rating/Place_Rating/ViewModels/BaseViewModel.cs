@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using BoxProtocol.Interfaces;
 using Xamarin.Forms;
-using BoxServerCore;
+using BoxProtocol;
 
 
 namespace Place_Rating.ViewModels
@@ -12,7 +12,6 @@ namespace Place_Rating.ViewModels
     public class BaseViewModel : INotifyPropertyChanged
     {
         //public IServerDB DataStore => DependencyService.Get<IServerDB>();
-        public IServerDB DataStore => new ServerDB();
 
         bool isBusy = false;
         public bool IsBusy

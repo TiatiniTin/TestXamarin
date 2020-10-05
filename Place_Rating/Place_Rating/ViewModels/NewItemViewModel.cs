@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Windows.Input;
 using BoxProtocol.Models;
-using BoxProtocol.Interfaces;
+using BoxProtocol;
 using Xamarin.Forms;
 using System.Threading.Tasks;
 using Xamarin.Essentials;
@@ -142,9 +142,10 @@ namespace Place_Rating.ViewModels
 
             //await DataStore.AddItemAsync(newItem);
 
-            var channel = new Channel("localhost", 12345, ChannelCredentials.Insecure);
-            var client = MagicOnionClient.Create<IServerDB>(channel);
-            await client.Add(newItem);
+            //var channel = new Channel("localhost", 12345, ChannelCredentials.Insecure);
+            //var client = MagicOnionClient.Create<IServerDB>(channel);
+            var DataStore = new ServerDB();
+            await DataStore.Add(newItem);
    
 
             // This will pop the current page off the navigation stack

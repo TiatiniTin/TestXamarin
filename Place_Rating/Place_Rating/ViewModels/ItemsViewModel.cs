@@ -4,10 +4,12 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 
 using Xamarin.Forms;
-
+using BoxProtocol;
 using BoxProtocol.Models;
 using Place_Rating.Views;
 using Xamarin.Essentials;
+using MagicOnion.Client;
+using Grpc.Core;
 
 namespace Place_Rating.ViewModels
 {
@@ -30,6 +32,7 @@ namespace Place_Rating.ViewModels
 
         async Task ExecuteLoadItemsCommand()
         {
+            var DataStore = new ServerDB();
             IsBusy = true;
             var location = Geolocation.GetLastKnownLocationAsync().Result;
             Item item_1 = new Item

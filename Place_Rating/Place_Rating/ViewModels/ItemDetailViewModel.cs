@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using BoxProtocol.Models;
 using Xamarin.Forms;
 using Xamarin.Essentials;
+using BoxProtocol;
 
 namespace Place_Rating.ViewModels
 {
@@ -114,6 +115,8 @@ namespace Place_Rating.ViewModels
         {
             try
             {
+                var DataStore = new ServerDB();
+
                 Item item = await DataStore.Get(itemId);
                 Id = item.Id;
                 Name = item.Name;
