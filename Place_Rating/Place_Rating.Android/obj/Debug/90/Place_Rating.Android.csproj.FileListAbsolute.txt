@@ -2153,3 +2153,12 @@ C:\Users\Vitya\Desktop\Place_Rating 4.0\Place_Rating\Place_Rating.Android\obj\De
 C:\Users\Vitya\Desktop\Place_Rating 4.0\Place_Rating\Place_Rating.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Vitya\Desktop\Place_Rating 4.0\Place_Rating\Place_Rating.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Vitya\Desktop\Place_Rating 4.0\Place_Rating\Place_Rating.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\build.props
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\adb.props
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\Place_Rating.Android.csprojAssemblyReference.cache
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\res.flag
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\Place_Rating.Android.dll
+C:\Users\Vitya\Desktop\Place_Rating 3.0 - прототип xamarin\Place_Rating\Place_Rating.Android\obj\Debug\90\Place_Rating.Android.pdb

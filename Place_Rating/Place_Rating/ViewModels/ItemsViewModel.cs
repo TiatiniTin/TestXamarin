@@ -29,7 +29,7 @@ namespace Place_Rating.ViewModels
 
         async Task ExecuteLoadItemsCommand()
         {
-            var channel = new Channel("localhost", 12345, ChannelCredentials.Insecure);
+            var channel = new Channel("10.0.2.2", 12345, ChannelCredentials.Insecure);
             var DataStore = MagicOnionClient.Create<IServerDB>(channel);
 
             IsBusy = true;
